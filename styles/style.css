@@ -23,9 +23,25 @@ body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
+#gmail{
+  color: white;
+}
+#gmail:hover{
+  text-decoration: underline;
+}
+#imagenes{
+  color: white;
+}
+#imagenes:hover{
+  text-decoration: underline;
+}
 #aplicacion-icon {
   height: 2rem;
   width: 2rem;
+}
+#aplicacion-icon:hover {
+  height: 2.5rem;
+  width: 2.5rem;
 }
 .button-sing {
   border-radius: 0.5rem;
@@ -64,6 +80,9 @@ main {
   background-color: white;
   border-radius: 1rem;
 }
+#buscadores-container:hover{
+  background-color: rgb(109, 107, 107);
+}
 #buscador-image {
   height: 1.5rem;
   width: 1.5rem;
@@ -73,6 +92,10 @@ main {
   padding: 0.5rem;
   border: 2px;
   border-radius: 1rem;
+  
+}
+#input-text:hover{
+  background-color: rgb(151, 147, 147);
 }
 #link-visitados {
   margin-top: 1rem;
