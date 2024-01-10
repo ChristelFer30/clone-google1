@@ -81,7 +81,7 @@ main {
   border-radius: 1rem;
 }
 #buscadores-container:hover{
-  background-color: rgb(109, 107, 107);
+  background-color: rgb(240, 234, 234);
 }
 #buscador-image {
   height: 1.5rem;
@@ -95,7 +95,7 @@ main {
   
 }
 #input-text:hover{
-  background-color: rgb(151, 147, 147);
+  background-color: rgb(240, 234, 234);
 }
 #link-visitados {
   margin-top: 1rem;
